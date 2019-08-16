@@ -1,13 +1,13 @@
 {"paymentdata":
 [{"payId":1234,
 "description":"food payment",
-"date":"2019/08/12",
+"date":"2019-08-12",
 "mode":"cash",
 "payee":"Rahul"
 },
 {"payId":1995,
 "description":"movie tickets",
-"date":"2019/08/13",
+"date":"2019-08-13",
 "mode":"credit",
 "payee":"Rahul"
 }]
